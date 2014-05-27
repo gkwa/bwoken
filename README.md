@@ -152,6 +152,8 @@ Note: This is done automatically if you use [CocoaPods](http://cocoapods.org/). 
 
 ### Prerequisites
 
+You need the source code for the App you're testing.  You can't start with only the compiled application.  You need the source.
+
 Ensure Xcode is up-to-date.
 
 Install rvm via <a href="https://rvm.io/rvm/install/">the instructions</a>. Ensure your after_cd_bundler rvm hook is enabled:
